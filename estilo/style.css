@@ -166,6 +166,7 @@ aside {
     padding: 10px;
     border-radius: 10px;
     box-shadow:3px 3px 8px rgba(0,0,0,0.192);
+    margin-top: 20px;
 }
 
 aside h3 {
